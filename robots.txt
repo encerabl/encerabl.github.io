@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://encerabl.github.io/sitemap
+Sitemap: https://encerabl.github.io/app/sitemap
+Sitemap: https://encerabl.github.io/assets/sitemap
+Sitemap: https://encerabl.github.io/css/sitemap
+Sitemap: https://encerabl.github.io/includes/sitemap
+Sitemap: https://encerabl.github.io/item/sitemap
+Sitemap: https://encerabl.github.io/src/sitemap
